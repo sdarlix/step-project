@@ -1,0 +1,35 @@
+header{
+    background: #111311;
+    height: 150px;
+    width: 100%;
+    display: flex;
+}
+
+.header__menu{
+    gap: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.header__menu-link{
+    color: white;
+    font-family: 'inter', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+
+
+.header__actions-image{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1147px;
+    top: 84px;
+}
